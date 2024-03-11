@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CC10624DiceApp</string>
+    <string name="title">Roll the Dice</string>
+    <string name="btnRoll">Roll</string>
+    <string name="btnReset">Reset</string>
+    <string name="btnClose">Close</string>
+    <string name="author">Donna Madelene O. Mateo</string>
+    <string name="btnSidedSix">6 sided</string>
+    <string name="btnSidedEight">8 sided</string>
+    <string name="btnSidedTwelve">12 sided</string>
+</resources>
